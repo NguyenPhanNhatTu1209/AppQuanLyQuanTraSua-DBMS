@@ -1,0 +1,41 @@
+D:\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\bin\Debug\Đồ án DBMS.exe.config
+D:\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\bin\Debug\Đồ án DBMS.exe
+D:\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\bin\Debug\Đồ án DBMS.pdb
+D:\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\bin\Debug\Guna.UI.dll
+D:\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ án DBMS.csprojAssemblyReference.cache
+D:\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ_án_DBMS.Form1.resources
+D:\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ_án_DBMS.Properties.Resources.resources
+D:\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ án DBMS.csproj.GenerateResource.cache
+D:\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ án DBMS.csproj.CoreCompileInputs.cache
+D:\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ án DBMS.csproj.CopyComplete
+D:\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ án DBMS.exe
+D:\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ án DBMS.pdb
+D:\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ_án_DBMS.ThanhToan.resources
+D:\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ_án_DBMS.FormDoiMKQL.resources
+D:\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ_án_DBMS.Views.FormGiaoDien.resources
+D:\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ_án_DBMS.FormLogin.resources
+D:\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ_án_DBMS.FormQuanLy.resources
+D:\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ_án_DBMS.FormRegister.resources
+D:\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ_án_DBMS.FormThongTinKhachHang.resources
+D:\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ_án_DBMS.FormThongTinNhanVien.resources
+D:\Học Kỳ 1- Năm 3\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\bin\Debug\Đồ án DBMS.exe.config
+D:\Học Kỳ 1- Năm 3\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\bin\Debug\Đồ án DBMS.exe
+D:\Học Kỳ 1- Năm 3\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\bin\Debug\Đồ án DBMS.pdb
+D:\Học Kỳ 1- Năm 3\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ án DBMS.csprojAssemblyReference.cache
+D:\Học Kỳ 1- Năm 3\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ_án_DBMS.Form1.resources
+D:\Học Kỳ 1- Năm 3\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ_án_DBMS.Properties.Resources.resources
+D:\Học Kỳ 1- Năm 3\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ_án_DBMS.FormDoiMKQL.resources
+D:\Học Kỳ 1- Năm 3\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ_án_DBMS.Views.FormGiaoDien.resources
+D:\Học Kỳ 1- Năm 3\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ_án_DBMS.FormLogin.resources
+D:\Học Kỳ 1- Năm 3\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ_án_DBMS.FormQuanLy.resources
+D:\Học Kỳ 1- Năm 3\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ_án_DBMS.FormRegister.resources
+D:\Học Kỳ 1- Năm 3\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ_án_DBMS.FormThongTinKhachHang.resources
+D:\Học Kỳ 1- Năm 3\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ_án_DBMS.FormThongTinNhanVien.resources
+D:\Học Kỳ 1- Năm 3\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ_án_DBMS.ThanhToan.resources
+D:\Học Kỳ 1- Năm 3\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ án DBMS.csproj.GenerateResource.cache
+D:\Học Kỳ 1- Năm 3\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ án DBMS.csproj.CoreCompileInputs.cache
+D:\Học Kỳ 1- Năm 3\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ án DBMS.csproj.CopyComplete
+D:\Học Kỳ 1- Năm 3\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ án DBMS.exe
+D:\Học Kỳ 1- Năm 3\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ án DBMS.pdb
+D:\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ_án_DBMS.Views.ChiNhanh.resources
+D:\Học Kỳ 1- Năm 3\Hệ quản trị cơ sở dữ liệu\Đồ án DBMS\obj\Debug\Đồ_án_DBMS.Views.ChiNhanh.resources
